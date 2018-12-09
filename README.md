@@ -1,16 +1,12 @@
-<hr />
-<div align="center">
-    <img src="images/logo.svg" alt="Logo" width='300px' height='auto'/>
-</div>
-<hr />
+
 
 [![Build Status](https://travis-ci.org/nanocurrency/raiblocks.svg?branch=master)](https://travis-ci.org/nanocurrency/raiblocks)
 [![Build status](https://ci.appveyor.com/api/projects/status/q66rbt2ux6apjj03/branch/master?svg=true)](https://ci.appveyor.com/project/argakiig/raiblocks/branch/master)
-### What is Nano?
+### What is Astral?
 
 ---
 
-Nano's goal is to become _"a global currency with instantaneous transactions and zero fees over a secure, decentralized network."_
+Astral Network wants to connect people, merchants and institutions
 
 We've applied the philosophy of _"do one thing and do it well."_ We are focused on building the best medium for value exchange in the world.
 
@@ -27,7 +23,6 @@ For more information, see [Nano.org](https://nano.org/) or read the [whitepaper]
 
 ### Guides & Documentation
 
-* [Whitepaper](https://nano.org/en/whitepaper)
 * [Build Instructions](https://github.com/nanocurrency/raiblocks/wiki/Build-Instructions)
 * [Command Line Interface](https://github.com/nanocurrency/raiblocks/wiki/Command-line-interface)
 * [RPC Protocol](https://github.com/nanocurrency/raiblocks/wiki/RPC-protocol)
@@ -35,22 +30,3 @@ For more information, see [Nano.org](https://nano.org/) or read the [whitepaper]
 * [Block-Lattice](https://github.com/nanocurrency/raiblocks/wiki/Block-lattice)
 * [Design Features](https://github.com/nanocurrency/raiblocks/wiki/Design-features)
 
-### Links & Resources
-
-* [Nano Website](https://nano.org)
-* [Nano Roadmap](https://developers.nano.org/roadmap)
-* [Discord Chat](https://chat.nano.org/)
-* [Reddit](https://reddit.com/r/nanocurrency)
-* [Medium](https://medium.com/nanocurrency)
-* [Twitter](https://twitter.com/nano)
-* [Forum](https://forum.raiblocks.net/)
-* [GitHub wiki](https://github.com/nanocurrency/raiblocks/wiki)
-
-### Want to Contribute?
-
-Please see the [contributors guide](https://github.com/nanocurrency/raiblocks/wiki/Contributing).
-
-### Contact us
-
-We want to hear about any trouble, success, delight, or pain you experience when
-using Nano. Let us know by [filing an issue](https://github.com/nanocurrency/raiblocks/issues), joining us on [reddit](https://reddit.com/r/nanocurrency), or joining us on [Discord](https://chat.nano.org/).
