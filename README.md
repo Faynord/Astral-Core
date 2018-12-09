@@ -6,7 +6,7 @@
 
 ---
 
-Astral Network wants to connect people, merchants and institutions via its platform offering a permissionless, trustless, infinitely scalable network. 
+Astral Network wants to connect people, merchants and institutions via its platform offering a permissionless, immutable, infinitely scalable network solution. 
 
 ### Key Features
 
